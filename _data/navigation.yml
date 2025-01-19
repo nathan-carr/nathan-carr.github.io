@@ -8,19 +8,19 @@ main:
   - title: "Interests"
     url: /Publications/
 
-  - title: "Talks"
+  - title: "Involvement"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Career"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Resume"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Right Now"
     url: /cv/
     
   - title: "Guide"
