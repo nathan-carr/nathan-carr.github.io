@@ -14,14 +14,14 @@ main:
   - title: "Career"
     url: /teaching/    
     
-  - title: "Projects"
+  - title: "Experience" # put things like work and speaking at church and aggies invent and papa kims and spare hands and stuff
     url: /portfolio/
         
-  - title: "Resume"
+  - title: "Projects"
     url: /year-archive/
     
-  - title: "Right Now"
+  - title: "Resume"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Right Now" 
     url: /markdown/
