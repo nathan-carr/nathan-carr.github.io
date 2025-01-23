@@ -19,23 +19,45 @@ Education (resume written out + attatched with link at top)
 
 Work experience
 ======
-* Summer 2024: Second Baptist Church, Intern
+* Fall 2024: Spare Hands Students, Contractor
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2024: Second Baptist Church, Intern
+  * Things about the work I would do with spare hands
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* I just added something!!!
+* Spring 2022 & 2023: Papa Kim's, General Handyman
   * Is this actually working!!
 
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+Leadership
+======
+* Go-Kart Project
+  * stuff
+
+* ASME Officer
+  * stuff
+
+Organization Involvment
+======
+* SSFE
+  * stuff
+
+* Impact
+  * Stuff
+
+* FLiC 
+  * Stuff
+
+* SAE Development
+
   
 Skills
 ======
