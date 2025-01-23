@@ -14,8 +14,8 @@ redirect_from:
 Education (resume written out + attatched with link at top)
 ======
 * B.S. in Industrial Distribution, Texas A&M University, 2027 (expected)
-  * Minor in Business, GitHub University, 2014 (FIND A WAY TO TAB THIS UNDER B.S.)
-* M.S. in GitHub, GitHub University, 2012
+  * Minor in Business, Texas A&M University, 2017
+* M.S
 
 Work experience
 ======
@@ -36,6 +36,9 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+* Spring & Summer 2021: Whataburger, General Worker
+  * 
 
 Leadership
 ======
