@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,15 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+---
+
+Education (resume written out + attatched with link at top)
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Industrial Distribution, Texas A&M University, 2027 (expected)
+  * Minor in Business, GitHub University, 2014 (FIND A WAY TO TAB THIS UNDER B.S.)
+* M.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Summer 2024: Second Baptist Church, Intern
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -26,6 +28,9 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+* I just added something!!!
+  * Is this actually working!!
 
 * Summer 2015: Research Assistant
   * Github University
